@@ -9,4 +9,4 @@
 4. Move the `hw1` folder to the top-level of your `code` folder. DO NOT place inside your _username.github.io_ folder or any other subfolders of your `code` folder.
 5. Using the GitHub Desktop app, create a new repository.
 6. Complete the homework per the instructions in the `hw1.js` file.
-7. Commit and publish your `hw1` repository to your GitHub account. The finished product should live at https://github.com/_your GitHub username_/hw1.
+7. Commit and publish your `hw1` repository to your GitHub account. The finished product should live at `https://github.com/<your GitHub username>/hw1`.
